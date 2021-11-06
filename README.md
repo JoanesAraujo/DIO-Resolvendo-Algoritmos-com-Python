@@ -34,7 +34,7 @@ Exiba todos os números pares até o valor de entrada, sendo um em cada linha.
 
 
 
-## **3 / 3 -  **A Resposta de Theon
+## 3 / 3 -  A Resposta de Theon
 
 Ramsay: *"(...) você vence se conseguir adivinhar quem eu sou e por que estou torturando você."*
 
