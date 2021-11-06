@@ -1,6 +1,6 @@
 # Resolvendo algoritmos com Python
 
-​                															                                  ![](D:\Documents\FAFIRE\DIGITALINNOVATION\Analise_de_dados_com_Python_e_Pandas\Digital Innovation One - Logotipo.png)
+​                															                                                                                                                                   ![image](https://i.imgur.com/zFRpBh6.png)
 
 **Aluno:** Joanes Cavalcanti de Araújo 
 
