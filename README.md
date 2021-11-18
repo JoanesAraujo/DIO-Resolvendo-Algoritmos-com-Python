@@ -1,6 +1,6 @@
 # Resolvendo algoritmos com Python
 
-​                															                                                                                                                                   ![image](https://i.imgur.com/zFRpBh6.png)
+​                															                                                                                                                                   <img align="right" img src="./diologo.png">
 
 **Aluno:** Joanes Cavalcanti de Araújo 
 
